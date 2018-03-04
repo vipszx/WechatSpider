@@ -1,0 +1,19 @@
+{
+    "name": "szx/wechat-spider",
+    "description": "wechat official account article spider",
+    "authors": [
+        {
+            "name": "szx",
+            "email": "635879675@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "szx\\WechatSpider\\": "./src"
+        }
+    }
+}
