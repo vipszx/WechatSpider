@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: szx
  * Date: 2018/3/4
- * Time: v2.0
+ * Time: v3.0-dev
  */
 
 namespace szx\WechatSpider;
